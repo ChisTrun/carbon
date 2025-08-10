@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package greyhole.carbon;
 
-option go_package = "github.com/chistrun/carbon/api;carbon";
+option go_package = "github.com/ChisTrun/carbon/api;carbon";
 
 import "validate/validate.proto";
 

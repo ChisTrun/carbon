@@ -4,7 +4,7 @@ import (
 	"crypto/tls"
 	"crypto/x509"
 
-	carbon "github.com/chistrun/carbon/api"
+	carbon "github.com/ChisTrun/carbon/api"
 )
 
 func New(config *carbon.TLS) (*tls.Config, error) {

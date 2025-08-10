@@ -1,4 +1,4 @@
-module github.com/chistrun/carbon
+module github.com/ChisTrun/carbon
 
 go 1.24.4
 
